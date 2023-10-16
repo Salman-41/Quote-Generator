@@ -85,11 +85,11 @@ button:active {
 
 /* Loader */
 .loader {
-  border: 16px solid #f3f3f3;
-  border-top: 16px solid #333537; 
+  border: 0.60rem solid #f3f3f3;
+  border-top: 0.60rem solid #333537; 
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 3.5rem;
+  height: 3.5rem;
   animation: spin 2s linear infinite;
 }
 
