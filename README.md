@@ -55,10 +55,13 @@ This project uses an external API to fetch random quotes. The API used is availa
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
+
    ```bash
    git clone https://github.com/your-username/quote-generator.git
    ```
+
 2. Open the project directory:
+
    ```bash
    cd quote-generator
    ```
