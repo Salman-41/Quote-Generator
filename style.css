@@ -88,8 +88,8 @@ button:active {
   border: 0.60rem solid #f3f3f3;
   border-top: 0.60rem solid #333537; 
   border-radius: 50%;
-  width: 3rem;
-  height: 3rem;
+  width: 3.5rem;
+  height: rem;
   animation: spin 2s linear infinite;
 }
 

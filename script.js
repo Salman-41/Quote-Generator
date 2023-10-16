@@ -47,7 +47,7 @@ function newQuote() {
 async function getQuotes() {
   showLoadingSpinner();
   // Generate random quote on each attempt
-  const apiUrl = "httpss://jacintodesign.github.io/quotes-api/data/quotes.json";
+  const apiUrl = "https://jacintodesign.github.io/quotes-api/data/quotes.json";
   try {
     const response = await fetch(apiUrl);
     apiQuotes = await response.json();
