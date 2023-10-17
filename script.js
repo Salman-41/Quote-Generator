@@ -63,7 +63,7 @@ async function getQuotes() {
   }
 }
 
-// Tweet Quote
+// Tweet Quotes
 function tweetQuote() {
   const TwitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.textContent} - ${authorText.textContent}`;
   window.open(TwitterUrl, "_blank");
